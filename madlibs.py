@@ -10,10 +10,10 @@ def main():
 
 	newname = name.capitalize()
 	newscream = scream.upper()
-	print(f"It was {time} o'clock when I heard a knock at the door.")
-	print(f"I opened the door and there was a {item1} full of {item2} with a {item3} saying {newname}")
-	print(f"Just as I closed the door I heard a scream {newscream}")
-	print(f"I froze in place and all I could do was {action} my head.")
+	print(f"It was {time} o'clock when I heard a knock at the door. \nI opened the door and there was a {item1} full of {item2} with a {item3} saying {newname} \nJust as I closed the door I heard a scream {newscream} \nI froze in place and all I could do was {action} my head.")
+	# print(f"I opened the door and there was a {item1} full of {item2} with a {item3} saying {newname}")
+	# print(f"Just as I closed the door I heard a scream {newscream}")
+	# print(f"I froze in place and all I could do was {action} my head.")
 
 
 if __name__ == '__main__':
